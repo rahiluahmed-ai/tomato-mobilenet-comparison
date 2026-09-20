@@ -1,0 +1,33 @@
+test_position,image_path,true_condition,predicted_condition
+167,raw/color/Tomato___Early_blight/f7beb64a-f8be-46d8-b4ea-637fb71e7509___RS_Erly.B 7711.JPG,Early_blight,Target_Spot
+168,raw/color/Tomato___Early_blight/6021f415-8463-41eb-ad4c-4033f7d16798___RS_Erly.B 7710.JPG,Early_blight,Target_Spot
+191,raw/color/Tomato___Early_blight/01861c93-ea8b-4820-aaa8-cc6003b3e75b___RS_Erly.B 7855.JPG,Early_blight,Late_blight
+725,raw/color/Tomato___Target_Spot/b9e0a7ff-7055-4184-a8bd-ff4321dc8dee___Com.G_TgS_FL 7866.JPG,Target_Spot,Septoria_leaf_spot
+870,raw/color/Tomato___Target_Spot/c799a079-5151-4d82-bc0f-23979da84d4b___Com.G_TgS_FL 0798.JPG,Target_Spot,Early_blight
+1019,raw/color/Tomato___Bacterial_spot/ddfa387b-e1ba-4033-aea8-e6644c19b0fa___GCREC_Bact.Sp 3563.JPG,Bacterial_spot,Target_Spot
+1020,raw/color/Tomato___Bacterial_spot/3cd5b241-d5f1-4ae7-92ea-447613dac98a___GCREC_Bact.Sp 3561.JPG,Bacterial_spot,Target_Spot
+1022,raw/color/Tomato___Bacterial_spot/0a1655ed-797c-4d1d-ba35-dc255d68a2ee___GCREC_Bact.Sp 3560.JPG,Bacterial_spot,Target_Spot
+1125,raw/color/Tomato___Bacterial_spot/7bd0f0c4-082e-4da4-ade1-a1d79637949c___GCREC_Bact.Sp 3664.JPG,Bacterial_spot,Septoria_leaf_spot
+1267,raw/color/Tomato___Bacterial_spot/4707268c-7dea-4327-9b13-a8da598c4356___GCREC_Bact.Sp 3643.JPG,Bacterial_spot,Target_Spot
+1268,raw/color/Tomato___Bacterial_spot/927b90a6-6318-47b0-93fd-a1c33d2d36c5___GCREC_Bact.Sp 3641.JPG,Bacterial_spot,Target_Spot
+1270,raw/color/Tomato___Bacterial_spot/66348a1f-6ca3-43c3-9883-ccf79c8dec89___GCREC_Bact.Sp 3640.JPG,Bacterial_spot,Target_Spot
+1535,raw/color/Tomato___Septoria_leaf_spot/94af2c43-753b-459f-8767-da8cee61bfe1___JR_Sept.L.S 2496.JPG,Septoria_leaf_spot,Tomato_mosaic_virus
+1565,raw/color/Tomato___Septoria_leaf_spot/52b3119d-4f5e-41b0-948f-7a1d3b1341eb___JR_Sept.L.S 8495.JPG,Septoria_leaf_spot,Leaf_Mold
+1596,raw/color/Tomato___Septoria_leaf_spot/7cf8bfef-e8d7-406b-b27c-e5e545096545___JR_Sept.L.S 8427.JPG,Septoria_leaf_spot,Leaf_Mold
+1607,raw/color/Tomato___Septoria_leaf_spot/2967e646-0a62-4db8-a568-57c1e14c93b5___JR_Sept.L.S 8428.JPG,Septoria_leaf_spot,Leaf_Mold
+1620,raw/color/Tomato___Septoria_leaf_spot/1ea484d8-6ebf-4d95-81b1-1c7f78e92015___JR_Sept.L.S 8425.JPG,Septoria_leaf_spot,Leaf_Mold
+1665,raw/color/Tomato___Septoria_leaf_spot/1f755e56-f38f-44ef-8076-d82c302c4539___JR_Sept.L.S 8407.JPG,Septoria_leaf_spot,Leaf_Mold
+1804,raw/color/Tomato___Tomato_Yellow_Leaf_Curl_Virus/737b87f3-b7df-49e2-8434-4e1cf0756a21___UF.GRC_YLCV_Lab 08491.JPG,Tomato_Yellow_Leaf_Curl_Virus,Bacterial_spot
+2226,raw/color/Tomato___Tomato_Yellow_Leaf_Curl_Virus/71c057a9-9b84-4424-96a4-3c307eb1dad6___YLCV_NREC 2534.JPG,Tomato_Yellow_Leaf_Curl_Virus,Spider_mites Two-spotted_spider_mite
+2335,raw/color/Tomato___Tomato_Yellow_Leaf_Curl_Virus/8f673fbe-f75c-44b3-aa36-2bdfe5992350___UF.GRC_YLCV_Lab 08573.JPG,Tomato_Yellow_Leaf_Curl_Virus,Bacterial_spot
+3015,raw/color/Tomato___Spider_mites Two-spotted_spider_mite/d9d22025-cee6-4963-ac70-bfa8a7af30a2___Com.G_SpM_FL 1624.JPG,Spider_mites Two-spotted_spider_mite,Target_Spot
+3072,raw/color/Tomato___Spider_mites Two-spotted_spider_mite/cb50c515-6885-4fc5-903e-b9fbac229a37___Com.G_SpM_FL 1667.JPG,Spider_mites Two-spotted_spider_mite,Target_Spot
+3073,raw/color/Tomato___Spider_mites Two-spotted_spider_mite/0e20026b-8b12-4c86-bd41-3e10ea0fae44___Com.G_SpM_FL 1668.JPG,Spider_mites Two-spotted_spider_mite,Target_Spot
+3085,raw/color/Tomato___Spider_mites Two-spotted_spider_mite/4ad85b66-43f0-476f-aee4-a320e793a42f___Com.G_SpM_FL 8645.JPG,Spider_mites Two-spotted_spider_mite,Tomato_Yellow_Leaf_Curl_Virus
+3228,raw/color/Tomato___Leaf_Mold/56779b93-da91-4f00-b562-ed5114e6d378___Crnl_L.Mold 6635.JPG,Leaf_Mold,Tomato_Yellow_Leaf_Curl_Virus
+3229,raw/color/Tomato___Leaf_Mold/a6227736-64f1-4089-ae4b-fac942bcc4da___Crnl_L.Mold 6639.JPG,Leaf_Mold,Tomato_Yellow_Leaf_Curl_Virus
+3264,raw/color/Tomato___Late_blight/2df8ffd2-e986-46cf-93bf-f271921701c2___RS_Late.B 5441.JPG,Late_blight,Early_blight
+3267,raw/color/Tomato___Late_blight/5fe78bd1-bf00-4863-93b9-5dc3ca8fbba4___RS_Late.B 5444.JPG,Late_blight,Early_blight
+3340,raw/color/Tomato___Late_blight/e1501757-3235-4051-b460-52c0f6e45add___RS_Late.B 4910.JPG,Late_blight,Early_blight
+3342,raw/color/Tomato___Late_blight/1af98b62-adaf-43d0-b4eb-83ab3f1ee084___RS_Late.B 4908.JPG,Late_blight,Early_blight
+3524,raw/color/Tomato___Late_blight/8130621c-8ff8-4fd9-bd54-765491adc31f___GHLB2 Leaf 8822.JPG,Late_blight,Septoria_leaf_spot
